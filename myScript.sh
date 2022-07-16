@@ -1,3 +1,4 @@
+# make file excutable
 # chmod +x myScript.sh 
 # to run the script ./myScript.sh
 # which bash 
@@ -41,7 +42,14 @@ NAME="myScript"
 # File
 # is it a file or not?
 FILE="file.txt"
-if [ -f "$FILE" ]
+if [ -s "$FILE" ]
+# -e file   True if the file exists
+# -f file   True if the provided string is a file
+# -r file   True if the file is readable
+# -s file   True if the file has a non-zero size
+# -u    True if the user id is set on a file
+# -w    True if the file is writable
+# -x    True if the file is an executable
 then
     echo "$FILE is already a file "
 else

@@ -3,3 +3,5 @@ script:
 
 file:
 	touch file.txt
+excutable:
+	chmod +x *.sh 
