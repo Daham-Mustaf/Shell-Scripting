@@ -55,3 +55,9 @@ then
 else
     echo "$FILE is not a file "
 fi
+
+# CREATE FOLDER AND WRITE TO A FILE
+# mkdir hello
+# touch "hello/world.txt"
+# echo "Hello World" >> "hello/world.txt"
+# echo "Created hello/world.txt"
