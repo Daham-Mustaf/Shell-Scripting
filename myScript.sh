@@ -5,12 +5,19 @@
 
 # echo comand shell
 # ./myScript.sh TO RUN THE script
-echo hello world!
+# echo hello world!
 
 # Variables uppercase by convention
-#NAME="myScript"
+NAME="myScript"
 #echo "my Variabl is $NAME"
 #echo "My name is ${NAME}"
 # user input:
-read -p "Enter your username : " NAME
-echo echo "Your username is ${NAME}"
+# read -p "Enter your username : " NAME
+# echo "Your username is ${NAME}"
+
+
+#If statement
+if [ "$NAME" == "myScript" ]
+then
+    echo "Your name is myScript"
+fi
