@@ -28,11 +28,22 @@ NAME="myScript"
 #     echo "Your name is not myScript"
 # fi
 # COMPARISON
-N1="Java"
-N2="C++"
-if [ "$N1" -gt "$N2" ]
+# N1="Java"
+# N2="C++"
+# if [ "$N1" -gt "$N2" ]
+# then
+#   echo "$N1 is greater than $N2"
+# else
+#   echo "$N1 is less than $N2"
+# fi
+
+
+# File
+# is it a file or not?
+FILE="file.txt"
+if [ -f "$FILE" ]
 then
-  echo "$N1 is greater than $N2"
+    echo "$FILE is already a file "
 else
-  echo "$N1 is less than $N2"
+    echo "$FILE is not a file "
 fi
