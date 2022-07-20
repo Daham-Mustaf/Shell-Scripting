@@ -1,3 +1,14 @@
 export X="Daham"
 echo "Hello ${X}"
 Hello Daham
+pwd /Users/m-store/Desktop/NextJs/JavaScript/Shell Scripting
+ cd . >>command.txt 
+# print user name
+echo "helow ${HOME}"
+helow m-store
+echo "helow ${HOME}"
+helow /Users/m-store
+echo "helow ${PWD}"
+helow /Users/m-store/Desktop/NextJs/JavaScript/Shell Scripting
+echo "helow ${PATH}"helow 
+/Users/m-store/.nvm/versions/node/v17.5.0/bin:/Library/Frameworks/Python.framework/Versions/3.9/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/usr/local/go/bin:/opt/X11/bin:/Applications/Postgres.app/Contents/Versions/latest/bin:/Users/m-store/.nvm/versions/node/v17.5.0/bin:/Users/m-store/opt/anaconda3/bin:/Users/m-store/opt/anaconda3/condabin:/Library/Frameworks/Python.framework/Versions/3.9/bin:/Applications/Postgres.app/Contents/Versions/13/bin:/Users/m-store/fzf/bin:/Applications/Postgres.app/Contents/Versions/13/bin
