@@ -1,0 +1,3 @@
+export X="Daham"
+echo "Hello ${X}"
+Hello Daham

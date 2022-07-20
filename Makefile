@@ -11,5 +11,7 @@ excutable:
 	chmod +x *.sh 
 clean:
     @echo "Cleaning up..."
-    rm -f *.txt | rm -f *.sh
+    rm -f *.txt 
+comand:
+	touch command.txt
 
