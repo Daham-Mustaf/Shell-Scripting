@@ -1,0 +1,1695 @@
+export X="Daham"
+echo "Hello ${X}"
+Hello Daham
+pwd /Users/m-store/Desktop/NextJs/JavaScript/Shell Scripting
+ cd . >>command.txt 
+# print user name
+echo "helow ${HOME}"
+helow m-store
+echo "helow ${HOME}"
+helow /Users/m-store
+echo "helow ${PWD}"
+helow /Users/m-store/Desktop/NextJs/JavaScript/Shell Scripting
+echo "helow ${PATH}"helow 
+/Users/m-store/.nvm/versions/node/v17.5.0/bin:/Library/Frameworks/Python.framework/Versions/3.9/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/usr/local/go/bin:/opt/X11/bin:/Applications/Postgres.app/Contents/Versions/latest/bin:/Users/m-store/.nvm/versions/node/v17.5.0/bin:/Users/m-store/opt/anaconda3/bin:/Users/m-store/opt/anaconda3/condabin:/Library/Frameworks/Python.framework/Versions/3.9/bin:/Applications/Postgres.app/Contents/Versions/13/bin:/Users/m-store/fzf/bin:/Applications/Postgres.app/Contents/Versions/13/bin
+ man echo 
+ECHO(1)                   BSD General Commands Manual                  ECHO(1)
+
+NNAAMMEE
+     eecchhoo -- write arguments to the standard output
+
+SSYYNNOOPPSSIISS
+     eecchhoo [--nn] [_s_t_r_i_n_g _._._.]
+
+DDEESSCCRRIIPPTTIIOONN
+     The eecchhoo utility writes any specified operands, separated by single blank
+     (` ') characters and followed by a newline (`\n') character, to the stan-
+     dard output.
+
+     The following option is available:
+
+     --nn    Do not print the trailing newline character.  This may also be
+           achieved by appending `\c' to the end of the string, as is done by
+           iBCS2 compatible systems.  Note that this option as well as the
+           effect of `\c' are implementation-defined in IEEE Std 1003.1-2001
+           (``POSIX.1'') as amended by Cor. 1-2002.  Applications aiming for
+           maximum portability are strongly encouraged to use printf(1) to
+           suppress the newline character.
+
+     Some shells may provide a builtin eecchhoo command which is similar or iden-
+     tical to this utility.  Most notably, the builtin eecchhoo in sh(1) does not
+     accept the --nn option.  Consult the builtin(1) manual page.
+
+EEXXIITT SSTTAATTUUSS
+     The eecchhoo utility exits 0 on success, and >0 if an error occurs.
+
+SSEEEE AALLSSOO
+     builtin(1), csh(1), printf(1), sh(1)
+
+SSTTAANNDDAARRDDSS
+     The eecchhoo utility conforms to IEEE Std 1003.1-2001 (``POSIX.1'') as
+     amended by Cor. 1-2002.
+
+BSD                             April 12, 2003                             BSD
+touch command.txt
+ls -alhtotal 40
+drwxr-xr-x   8 m-store  staff   256B Jul 20 21:58 .
+drwxr-xr-x@  9 m-store  staff   288B Jul 20 21:55 ..
+drwxr-xr-x  13 m-store  staff   416B Jul 20 22:09 .git
+-rw-r--r--@  1 m-store  staff   309B Jul 20 21:57 Makefile
+-rw-r--r--   1 m-store  staff    18B Jul 16 16:16 README.md
+-rw-r--r--@  1 m-store  staff   2.5K Jul 20 22:14 command.txt
+-rw-r--r--   1 m-store  staff    12B Jul 16 17:23 file.txt
+-rwxr-xr-x   1 m-store  staff   1.3K Jul 16 17:22 myScript.sh
+mkdir C++/C++1
+
+rm -f *.txt 
+rm -r C++
+#intas htop
+brew install htop
+
+cat ~/.zsh_history: 1622663285:0;cd eclipse-workspace
+: 1622663285:0;cd TestMaven
+: 1622663285:0;ls
+: 1622663285:0;mvn site
+: 1622663285:0;mvn site
+: 1622663285:0;chsh -s /bin/bash
+: 1622663285:0;chsh -s /bin/bash
+: 1622663285:0;mvn -version
+: 1622663285:0;ls 
+: 1622663285:0;ls -a
+: 1622663285:0;open -e .bash_profile
+: 1622663285:0;mvn
+: 1622663285:0;pwd
+: 1622663285:0;pwd
+: 1622663285:0;java -Dprism.verbose=true Main
+: 1622663285:0;javac Main.java
+: 1622663285:0;/Library/Frameworks/Python.framework/Versions/3.8/bin/python3 /Users/m-store/.vscode/extensions/ms-python.python-2020.5.86806/pythonFiles/pyvsc-run-isolated.py pip install -U pylint --user
+: 1622663285:0;python -u "/Users/m-store/Desktop/Java/Python/main.py"
+: 1622663285:0;pwd
+: 1622663285:0;pwd
+: 1622663285:0;ls
+: 1622663285:0;pwd
+: 1622663285:0;python -m pip install -U matplotlib
+: 1622663285:0;python -m pip install -U pip
+: 1622663285:0;pip
+: 1622663285:0;pip -h
+: 1622663285:0;pip -version
+: 1622663285:0;pip version
+: 1622663285:0;pip list
+: 1622663285:0;pwd
+: 1622663285:0;pip list
+: 1622663285:0;python -m pip install -U matplotlib
+: 1622663285:0;pwd
+: 1622663285:0;wd
+: 1622663285:0;pwd
+: 1622663285:0;ls 
+: 1622663285:0;--list
+: 1622663285:0;open ./
+: 1622663285:0;pwd
+: 1622663285:0;ls
+: 1622663285:0;ls -a
+: 1622663285:0;ls
+: 1622663285:0;cd venv
+: 1622663285:0;ls
+: 1622663285:0;pwd
+: 1622663285:0;cd ~
+: 1622663285:0;cd Desktop/Python
+: 1622663285:0;ls
+: 1622663285:0;pip install numpy
+: 1622663285:0;ls
+: 1622663285:0;ls -a
+: 1622663285:0;pwd
+: 1622663285:0;open ./
+: 1622663285:0;pwd
+: 1622663285:0;pwd
+: 1622663285:0;pip install -U scikit-learn
+: 1622663285:0;pip install --upgrade pi
+: 1622663285:0;/python -m pip install --upgrade pi
+: 1622663285:0;python -m pip install --upgrade pi
+: 1622663285:0;pip install --upgrade pi
+: 1622663285:0;ls -a
+: 1622663285:0;pwd
+: 1622663285:0;pwd
+: 1622663285:0; -m pip install --upgrade pip
+: 1622663285:0;pip  -m pip install --upgrade pip
+: 1622663285:0;pip 
+: 1622663285:0;pip -m pip install --upgrade pip
+: 1622663285:0;pip install --upgrade pip
+: 1622663285:0;python -m pip install -U pip
+: 1622663285:0;python -m pip install -U scikit-image
+: 1622663285:0;pwd
+: 1622663285:0;open ./
+: 1622648464:0;zsh --version
+: 1622648485:0;cd ~
+: 1622648488:0;ls -a
+: 1622648608:0;vi .zshrc
+: 1622663285:0;sql
+: 1622663285:0;psql
+: 1622663285:0; cd ~
+: 1622663285:0;pwd
+: 1622663285:0;ls -a
+: 1622663285:0;clear
+: 1622663285:0;~ vi .zshrc
+: 1622663285:0;brew install zsh
+: 1622663285:0;sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+: 1622648738:0;vi .zshrc
+: 1622649051:0;source .zshrc
+: 1622649056:0;psql
+: 1622650508:0;psql --help
+: 1622650530:0;psql 
+: 1622651489:0;psql -h localhst -p 5432  -U m-store test
+: 1622651516:0;--help
+: 1622651522:0;psql
+: 1622651545:0;--help
+: 1622651573:0;psql --help
+: 1622651606:0;psql -h local socket -p 5432  -U m-store test
+: 1622651734:0;psql -h localhost -p 5432 -U m-store test
+: 1622651815:0;psql -h localhost -p 5432 -U m-store testttt
+: 1622651847:0;psql -h localhost -p 5432 -U m-storeeee test
+: 1622651858:0;psql -h localhost -p 5432 -U m-store test
+: 1622651931:0;psql --help
+: 1622651942:0;psql
+: 1622655308:0;pwd
+: 1622655316:0;cd Documents
+: 1622655319:0;ls
+: 1622655325:0;cd PSQL
+: 1622655326:0;ls
+: 1622655354:0;la
+: 1622655364:0;pwd
+: 1622655386:0;psql
+: 1622655508:0;\d
+: 1622655512:0;psql
+: 1622656075:0;--help
+: 1622656080:0;\q
+: 1622656095:0;psql --help
+: 1622665206:0;psql
+: 1622706221:0;ls
+: 1622706224:0;ls -a
+: 1622765221:0;psql --help
+: 1622765283:0;psql
+: 1622766613:0;ls
+: 1622766616:0;pwd
+: 1622878608:0;psql
+: 1623048183:0;pwd
+: 1623088638:0;ls
+: 1623088640:0;ls -a
+: 1623524595:0;pip install ipython
+: 1623524740:0;p
+: 1623524754:0;pip install --upgrade pip
+: 1623524798:0;IPython
+: 1623524979:0;pwd
+: 1623524992:0;Ipthon
+: 1623524996:0;IPython
+: 1623834172:0;elp(len)
+: 1623854346:0;pwd
+: 1623952250:0;ython -m pip install gurobipy
+: 1623952257:0;Ppython -m pip install gurobipy
+: 1623952277:0;-m pip install gurobipy
+: 1623952282:0;Python -m pip install gurobipy
+: 1623952746:0;gurobipy
+: 1624026670:0;help
+: 1624026675:0;psql help
+: 1624026691:0;psql 
+: 1624027364:0;psql
+: 1624029795:0;psql 
+: 1624029907:0;sql 
+: 1624029911:0;psql
+: 1624032198:0;open ./
+: 1624032272:0;sql 
+: 1624032276:0;psql
+: 1624093136:0;open ./
+: 1624099044:0;ls
+: 1624099050:0;pwd
+: 1624107663:0;ls *.pichle
+: 1624107670:0;ls
+: 1624107693:0;ls *.pickle
+: 1624107714:0;ls *.py
+: 1624107963:0;pwd
+: 1624108092:0;ls
+: 1624108104:0;pwd
+: 1624110214:0;ls
+: 1624124659:0;import sklearn
+: 1624124761:0;IPython
+: 1624647649:0;wd
+: 1624647651:0;pwd
+: 1624647655:0;ls
+: 1624647666:0;pwd
+: 1624909833:0;wd
+: 1624909835:0;pwd
+: 1624909837:0;;s
+: 1624909838:0;ls
+: 1624909886:0;cd Lec_12
+: 1624909887:0;ls
+: 1624909893:0;Python Lec_A.py
+: 1624910772:0;Python Lec_A.py 5
+: 1624910806:0;Python Lec_A.py 4
+: 1624910810:0;Python Lec_A.py 2
+: 1624988758:0;ls -l
+: 1624988769:0;IPython
+: 1625336685:0;pls
+: 1625420278:0;wd
+: 1625420282:0;pwd
+: 1625644906:0;d
+: 1625644908:0;pwd
+: 1627490537:0;psql
+: 1627490631:0;Ø³Ù‚Ùƒ¤
+: 1627490636:0;psql
+: 1627490646:0;ls
+: 1627490659:0;psql
+: 1627490718:0;s
+: 1627490722:0;ls
+: 1627490731:0;psql
+: 1627923784:0;pwd
+: 1628691433:0;wd
+: 1628691435:0;pwd 
+: 1628691438:0;open ./
+: 1629059067:0;git init
+: 1629059074:0;ls -a 
+: 1629059412:0;la -al
+: 1629059434:0;git add .
+: 1629059462:0;git commit -m "loading the first class"
+: 1629059473:0;git stsuts
+: 1629059479:0;git status
+: 1629059488:0;git log
+: 1629059588:0;git add README.md
+: 1629059626:0;touch README.md
+: 1629059633:0;git add .
+: 1629059647:0;git commit -m "Added git add README.md"
+: 1629059651:0;git log
+: 1629059675:0;git branch 
+: 1629059683:0;git branch -M main
+: 1629059687:0;git main
+: 1629059694:0;git branch 
+: 1629059737:0;git remote add origin https://github.com/Daham-Mustaf/Java-Data-Science.git
+: 1629059747:0;git push -u origin main
+: 1629059900:0;git config --unset http.proxy
+: 1629059910:0;git config --global --unset http.proxy
+: 1629059919:0;git config --system --unset http.proxy
+: 1629059925:0;git push -u origin main
+: 1629096476:0;add .
+: 1629096487:0;git add .
+: 1629096507:0;git commit -m "the update of Rows and columns handling"
+: 1629096513:0;git push -u origin main
+: 1629096596:0;git config --unset http.proxy
+: 1629096608:0;git config --global --unset http.proxy
+: 1629096612:0;git push -u origin main
+: 1629096678:0;git push 
+: 1629096757:0;git config -l --show-origin | grep -i proxy
+: 1629096760:0;git push 
+: 1629096907:0;open ./
+: 1629098838:0;git add .
+: 1629098860:0;git commit -m "the class updated with the selection API"
+: 1629098864:0;git log
+: 1629098874:0;git push
+: 1629099409:0;git add .
+: 1629099424:0;git commit -m "Updated selection"
+: 1629099430:0;git push .
+: 1629099438:0;git push 
+: 1629099818:0;git add .
+: 1629099826:0;git commit 
+: 1629099902:0;git add 
+: 1629099906:0;git add .
+: 1629099913:0;git commit -m "the table is added to the repository"
+: 1629099921:0;git push 
+: 1629105164:0;add .
+: 1629105173:0;git add .
+: 1629105186:0;git commit -m "The last update"
+: 1629105193:0;git push .
+: 1629105199:0;git push
+: 1629105810:0;git add .
+: 1629105852:0;git commit -m "the read().csv for reading from local machine"
+: 1629105856:0;git log
+: 1629105866:0;git push 
+: 1629105903:0;git config -l --show-origin | grep -i proxy
+: 1629105907:0;git push 
+: 1629107141:0;git add .
+: 1629107158:0;git commit -m "The the output from the API is added"
+: 1629107163:0;git push
+: 1629107407:0;sql
+: 1629107413:0;psql
+: 1629107631:0;git add .
+: 1629107653:0;git commit -m "SQL reading from local database"
+: 1629107661:0;git push 
+: 1629110492:0;git add .
+: 1629110503:0;git commit -m "Calculating multiple values for one column"
+: 1629110506:0;git push
+: 1629112233:0;git add 
+: 1629112237:0;git add .
+: 1629112245:0;git commit "Updated"
+: 1629112253:0;git push 
+: 1629114857:0;it add .
+: 1629114879:0;git commit -m "Heatmap added to the project"
+: 1629114884:0;git log 
+: 1629114890:0;git psuh 
+: 1629114902:0;git push 
+: 1629114998:0;git log 
+: 1629115008:0;git add.
+: 1629115014:0;git add .
+: 1629115030:0;git commit "Heatmap added to the project"
+: 1629115048:0;git commit-m "Heatmap added to the project"
+: 1629115065:0;git commit -m "Heatmap added to the project"
+: 1629115075:0;git push 
+: 1629116558:0;git config -l --show-origin | grep -i proxy
+: 1629116573:0;git main
+: 1629116590:0;git mailinfo
+: 1629117123:0;git add .
+: 1629117132:0;git commit -m "Updated"
+: 1629117136:0;git push
+: 1629123375:0;mivin clean install
+: 1629123398:0;mivn clean install
+: 1629123596:0;git branch
+: 1629123602:0;ls
+: 1629123609:0;mvn --version
+: 1629123872:0;exit
+: 1629123877:0;git exit
+: 1629123896:0;git --help
+: 1629127840:0;echo "# Text-Editor" >> README.md
+: 1629127843:0;ls
+: 1629127855:0;cat README.md
+: 1629127866:0;ls -a
+: 1629127874:0;cd src
+: 1629127887:0;ls
+: 1629127891:0;cd ..
+: 1629127893:0;ls
+: 1629127904:0;git init
+: 1629127939:0;git commit -m "class Register commited"
+: 1629127950:0;git branch -M main
+: 1629127972:0;git branch
+: 1629127980:0;git branch -M main
+: 1629127997:0;git remote add origin https://github.com/Daham-Mustaf/Text-Editor.git
+: 1629128005:0;git push -u origin main
+: 1629128016:0;git branch -M main
+: 1629128096:0;ls -a
+: 1629128103:0;cd .git
+: 1629128105:0;ls 
+: 1629128110:0;open .
+: 1629128147:0;cat HE
+: 1629128158:0;cat HEAD
+: 1629128189:0;open ./
+: 1629128230:0;cd ..
+: 1629128231:0;ls
+: 1629128241:0;ls -a
+: 1629128251:0;git remote add origin https://github.com/Daham-Mustaf/Text-Editor.git
+: 1629128282:0;git push -u origin main
+: 1629128289:0;git remote add origin https://github.com/Daham-Mustaf/Text-Editor.git
+: 1629128380:0;git remote set-url origin https://github.com/Daham-Mustaf/Text-Editor.git
+: 1629128386:0;git push -u origin main
+: 1629128394:0;git push
+: 1629128415:0;git push -u origin main
+: 1629128476:0;git remote remove origin
+: 1629128525:0;git remote set-url origin https://github.com/Daham-Mustaf/Text-Editor.git
+: 1629128549:0;rm -rf .git
+: 1629128552:0;ls
+: 1629128556:0;la -s
+: 1629128572:0;git intit
+: 1629128587:0;git commit -m "Commit Registor Class"
+: 1629128620:0;git init
+: 1629128626:0;git commit -m "Commit Registor Class"
+: 1629128634:0;git log
+: 1629128643:0;git commit -m "Commit Registor Class"
+: 1629128659:0;git branch -M main
+: 1629128922:0;git log --oneline --graph --decorate --all
+: 1629129069:0;git rm -rf .git
+: 1629129075:0;git intit
+: 1629129081:0;git init
+: 1629129102:0;git commit -m "first commit"
+: 1629129119:0;git add .
+: 1629129121:0;git commit -m "first commit"
+: 1629129134:0;git branch -M main
+: 1629129149:0;git remote add origin https://github.com/Daham-Mustaf/Text-Editor.git
+: 1629129157:0;git push -u origin main
+: 1629130528:0;gitt add .
+: 1629130545:0;git commit -m "Updated clasess"
+: 1629130554:0;git push -u origin main
+: 1629130589:0;git push
+: 1629130638:0;git commit -m ""
+: 1629130642:0;git push 
+: 1629130685:0;git add .
+: 1629130696:0;git commit -m "Upadted"
+: 1629130703:0;hit log
+: 1629130708:0;git log
+: 1629130715:0;git push 
+: 1629131116:0;echo "# LineSimplification_Gurobi_Optimizer" >> README.md
+: 1629131127:0;git init
+: 1629131132:0;git ad .
+: 1629131139:0;git add .
+: 1629131168:0;git commit -m "Line Simplification a task in cartography"
+: 1629131181:0;git branch -M main
+: 1629131190:0;git remote add origin https://github.com/Daham-Mustaf/LineSimplification_Gurobi_Optimizer.git
+: 1629131198:0;git push -u origin main
+: 1629131297:0;git add .
+: 1629131310:0;git commit -m "Line Simplification a task in cartography"
+: 1629131318:0;git push
+: 1629132553:0;git add README.md
+: 1629132558:0;git init
+: 1629132561:0;git add README.md
+: 1629132567:0;git add .
+: 1629132574:0;git status
+: 1629132689:0;git commit -m "geospacial data Visualization"
+: 1629132694:0;git log
+: 1629132714:0;git branch -M main
+: 1629132728:0;git remote add origin https://github.com/Daham-Mustaf/GeospacialData-vesualization.git
+: 1629132736:0;git push -u origin main
+: 1629133024:0;git add .
+: 1629133037:0;git commit -m " Updated "
+: 1629133043:0;git push
+: 1629133063:0;git branch -M main
+: 1629133076:0;git remote add origin https://github.com/Daham-Mustaf/GeospacialData-Visualization.git
+: 1629133098:0;git push
+: 1629133111:0;git push -u origin main
+: 1629133635:0;git init
+: 1629133651:0;echo "# MatrixClass_Parameter_Estimation." >> README.md
+: 1629133659:0;git add .
+: 1629133694:0;git commit -m "Matrix class for Computation of paramiter Setimation"
+: 1629133705:0;git branch -M main
+: 1629133718:0;git remote add origin https://github.com/Daham-Mustaf/MatrixClass_Parameter_Estimation..git
+: 1629133725:0;git push -u origin main
+: 1629187820:0;echo "# Jaava-Algorithms" >> README.md
+: 1629187826:0;intit git
+: 1629187832:0;git init
+: 1629187836:0;git add .
+: 1629188190:0;git commit "Diffrent distance calculation"
+: 1629188219:0;git branch -M main
+: 1629188243:0;git remote add origin https://github.com/Daham-Mustaf/Jaava-Algorithms.git
+: 1629188252:0;git push -u origin main
+: 1629188278:0;git reset
+: 1629188290:0;git r -rf .git
+: 1629188304:0;git rm -rf .git
+: 1629188313:0;git rm -rf .git/
+: 1629188319:0;ls -a
+: 1629188335:0;git rm -rf .git
+: 1629188349:0;git rm .git 
+: 1629188354:0;ls
+: 1629188362:0;ls -a
+: 1629188471:0;pwd
+: 1629188587:0;open ./
+: 1629188596:0;cd ..
+: 1629188602:0;oen ./
+: 1629188605:0;open ./
+: 1629188762:0;ls -a
+: 1629188767:0;ls
+: 1629188774:0;pwd
+: 1629188784:0;cd JavaAlgorithms
+: 1629188785:0;ls
+: 1629188789:0;la -s
+: 1629188791:0;la -a
+: 1629188801:0;rm -r .git
+: 1629188833:0;ls -a
+: 1629188849:0;gir rm -rf .git
+: 1629188866:0;git rm -rf .git
+: 1629188872:0;git init
+: 1629188881:0;git add .
+: 1629188907:0;git commit -m "distances computation"
+: 1629188928:0;git branch -M main
+: 1629188938:0;git remote add origin https://github.com/Daham-Mustaf/Jaava-Algorithms.git
+: 1629188949:0;git push -u origin main
+: 1629198247:0;git add .
+: 1629198276:0;git commit -m " coorelation btween data variables "
+: 1629198281:0;git push 
+: 1629199418:0;git add .
+: 1629199441:0;git commit -m "getCorrelation function was added "
+: 1629199446:0;git push 
+: 1629199506:0;git add .
+: 1629199514:0;git commit -m "getCorrelation function was added "
+: 1629199519:0;git push 
+: 1629200337:0;git add .
+: 1629200353:0;git commit "correlation coefficient using the Smile library"
+: 1629200360:0;git push 
+: 1629200416:0;git add .
+: 1629200420:0;git commit "correlation coefficient using the Smile library"
+: 1629200441:0;git commit -m  "correlation coefficient using the Smile library"
+: 1629200447:0;git push 
+: 1629201392:0;add .
+: 1629201395:0;git add .
+: 1629201419:0;git commit -m "the Trend class added to the project"
+: 1629201423:0;git push
+: 1629202339:0;git add .
+: 1629202354:0;git commit -m "TimeSeriesPlot implimented"
+: 1629202361:0;push .
+: 1629202373:0;git push 
+: 1629205038:0;git add .
+: 1629205057:0;git commit -m " HorizontalBarPlot & PiePlot"
+: 1629205062:0;git push
+: 1629206979:0;git add .
+: 1629207013:0;git commit -m "createWordCloud function added "
+: 1629207018:0;git push
+: 1629207085:0;git add .
+: 1629207087:0;git commit -m "createWordCloud function added "
+: 1629207090:0;git push
+: 1629208960:0;git add .
+: 1629208975:0;git commit -m "Add transposed Data class"
+: 1629208983:0;git push 
+: 1629215806:0;git init
+: 1629215825:0;echo "# USING-MATRIX-FORM-FOR-PROPAGATION-OF-ERRORS" >> README.md
+: 1629215848:0;git add .
+: 1629215882:0;git commit -m "USING MATRIX FORM FOR PROPAGATION OF ERRORS"
+: 1629215894:0;git branch -M main
+: 1629215907:0;git remote add origin https://github.com/Daham-Mustaf/USING-MATRIX-FORM-FOR-PROPAGATION-OF-ERRORS.git
+: 1629215917:0;git push -u origin main
+: 1629216686:0;git add .
+: 1629216696:0;git commit -m "USING MATRIX FORM FOR PROPAGATION OF ERRORS"
+: 1629216707:0;git push
+: 1629216722:0;git commit -m "USING MATRIX FORM FOR PROPAGATION OF ERRORS"
+: 1629216727:0;git push -u origin main
+: 1629216737:0;git remote add origin https://github.com/Daham-Mustaf/USING-MATRIX-FORM-FOR-PROPAGATION-OF-ERRORS.git
+: 1629216741:0;git push -u origin main
+: 1629216768:0;git rm -rf .git
+: 1629216771:0;ls -a
+: 1629216781:0;rm -r .git
+: 1629216797:0;git init
+: 1629216801:0;git add .
+: 1629216808:0;git commit -m "USING MATRIX FORM FOR PROPAGATION OF ERRORS"
+: 1629216823:0;git remote add origin https://github.com/Daham-Mustaf/USING-MATRIX-FORM-FOR-PROPAGATION-OF-ERRORS.git
+: 1629216831:0;git push -u origin main
+: 1629216841:0;git remote add origin https://github.com/Daham-Mustaf/USING-MATRIX-FORM-FOR-PROPAGATION-OF-ERRORS.git
+: 1629250692:0;git add .
+: 1629250716:0;git commit -m " adding VisualizingText class"
+: 1629250721:0;push 
+: 1629250725:0;git push
+: 1629253705:0;git add .
+: 1629253708:0;git commit -m " adding VisualizingText class"
+: 1629253712:0;git push
+: 1629253854:0;git add .
+: 1629253870:0;git commit -m " adding JPanal"
+: 1629253881:0;git push
+: 1629321480:0;git add .
+: 1629321529:0;git commit -m "Data Cleaning"
+: 1629321535:0;git push
+: 1629322204:0;add .
+: 1629322210:0;git add .
+: 1629322222:0;git commit "Data validation"
+: 1629322237:0;git commit -m "Data validation"
+: 1629322242:0;git push
+: 1629322284:0;git add .
+: 1629322286:0;git commit -m "Data validation"
+: 1629322291:0;git push
+: 1629326396:0;git init
+: 1629326410:0;git add .
+: 1629326412:0;git commit -m "first commit"
+: 1629326420:0;git branch -M main
+: 1629326431:0;git remote add origin https://github.com/Daham-Mustaf/Statistical-Data-Analysis-Java.git
+: 1629326441:0;git push -u origin main
+: 1629328664:0;git add .
+: 1629328676:0;git commit -m "Updated call"
+: 1629328684:0;git push 
+: 1629331248:0;git add .
+: 1629331270:0;git commit -m "the main statict tasks added"
+: 1629331275:0;git push
+: 1629372636:0;git add .
+: 1629372762:0;git commit -m "updated"
+: 1629372766:0;git push
+: 1629396049:0;git add .
+: 1629396111:0;git commit -m "Adding \
+import java.io.BufferedReader;\
+git add .\
+git commit -m "adding ParsingTxtFile class "\
+git add .\
+git commit -m ""adding ParsingTxtFile class "
+: 1629396118:0;git push 
+: 1629396154:0;git add
+: 1629396157:0;git add .
+: 1629396192:0;git commit -m "Adding "adding ParsingTxtFile class "\
+git add .\
+git commit -m "Adding "adding ParsingTxtFile class"
+: 1629396286:0;git add .
+: 1629396306:0;git commit -m "adding pasring text file"
+: 1629396311:0;git push
+: 1629460117:0;git add .
+: 1629460132:0;git commit -m "CleandTxt"
+: 1629460136:0;git push
+: 1629461982:0;git add .
+: 1629461992:0;git commit -m "Upadated "
+: 1629461995:0;git push 
+: 1629463217:0;git add .
+: 1629463228:0;git commit -m "DescriptiveStas updated "
+: 1629463231:0;git push
+: 1629464101:0;git add .
+: 1629464109:0;git commit -m "update"
+: 1629464112:0;git push
+: 1629464140:0;git commit -m "The class update"
+: 1629464143:0;git push
+: 1629464182:0;git add .
+: 1629464193:0;git commit -m "The new update"
+: 1629464198:0;git push
+: 1629464252:0;git add .
+: 1629464266:0;git commit -m "the update"
+: 1629464272:0;git push
+: 1629464534:0;git push https://github.com/Daham-Mustaf/Statistical-Data-Analysis-Java.git --all
+: 1629544853:0;git add .
+: 1629544874:0;git commit -m "TransposData class is added "
+: 1629544877:0;git push
+: 1629544940:0;git pull origin master
+: 1629544951:0;git push origin master
+: 1629727732:0;git add .
+: 1629727743:0;git commit -m "The classes updated"
+: 1629727747:0;git push
+: 1629727839:0;git config --global --unset http.proxy
+: 1629727842:0;git push
+: 1629727881:0;git pull --rebase origin main
+: 1629727917:0;git add .
+: 1629727924:0;git commit -m "The classes updated"
+: 1629727930:0;git pull --rebase origin main
+: 1629727967:0;git reset --mixed origin/main
+: 1629727977:0;git add .
+: 1629727986:0;git commit -m "This is a new commit for what I originally planned to be amended"
+: 1629727995:0;git push origin main
+: 1629728059:0;git init
+: 1629728086:0;git remote add origin https://github.com/Daham-Mustaf/Statistical-Data-Analysis-Java.git/
+: 1629728097:0;git add -A
+: 1629728104:0;git commit -m 'Added my project'
+: 1629728111:0;git pull --rebase origin master
+: 1629728120:0;git push  origin master
+: 1629728142:0;rm -rf .git
+: 1629728172:0;git commit -m"first message"
+: 1629729672:0;git remote add origin https://github.com/Daham-Mustaf/Statistical-Data-Analysis-Java
+: 1629729717:0;git remote set-url origin https://github.com/Daham-Mustaf/Statistical-Data-Analysis-Java
+: 1629729727:0;git push
+: 1629729761:0;git remote add origin  https://github.com/Daham-Mustaf/Statistical-Data-Analysis-Java
+: 1629729826:0;git remote rm origin
+: 1629729850:0;git remote add origin  https://github.com/Daham-Mustaf/Statistical-Data-Analysis-Java
+: 1629729858:0;git push
+: 1629729874:0;git remote -v
+: 1629729941:0;git remote rm origin
+: 1629729949:0;git remote -v
+: 1629730020:0;git remote add origin https://github.com/Daham-Mustaf/Statistical-Data-Analysis-Java 
+: 1629730054:0;git push -u origin --all
+: 1629730118:0;ls -a
+: 1629730132:0;git rm -rf .git 
+: 1629730142:0;rm -rf .git 
+: 1629730145:0;las -a 
+: 1629730148:0;ls -a
+: 1629741095:0;git rm -rf .git 
+: 1629741099:0;git init
+: 1629741116:0;git commit -m "updated classes"
+: 1629741128:0;git push
+: 1629741157:0;git remote add origin https://github.com/Daham-Mustaf/Statistical-Data-Analysis-Java 
+: 1629741161:0;git push
+: 1629748315:0;ls -a
+: 1629748322:0;git init 
+: 1629748325:0;ls -a 
+: 1629748339:0;git add .
+: 1629748354:0;git commit -m "first commit"
+: 1629748362:0;git branch -M main
+: 1629748371:0;git remote add origin https://github.com/Daham-Mustaf/Machine-Learning_algorithms-Java.git
+: 1629748382:0;git push -u origin main
+: 1629748462:0;git add .
+: 1629748470:0;git commit -m "Updated"
+: 1629748473:0;git push
+: 1629796691:0;git add .
+: 1629796707:0;git commit -m "The clase added"
+: 1629796714:0;git push 
+: 1629796833:0;git add .
+: 1629796836:0;git commit -m "The clase added"
+: 1629796838:0;git add .
+: 1629796909:0;git push 
+: 1630018148:0;echo "# Data-Science-In-Python" >> README.md
+: 1630018150:0;ls 
+: 1630018157:0;git init
+: 1630018163:0;git add .
+: 1630018244:0;ls
+: 1630018296:0;cd Lec_04
+: 1630018297:0;ls
+: 1630018359:0;cd venv
+: 1630018360:0;LS
+: 1630018365:0;CD Data_Science
+: 1630018366:0;LS
+: 1630018380:0;echo "# Data-Science-In-Python" >> README.md
+: 1630018389:0;git add .
+: 1630018395:0;ls
+: 1630018402:0;ls -a 
+: 1630018408:0;git init
+: 1630018413:0;git add .
+: 1630018432:0;git commit -m "first commit"
+: 1630018443:0;git branch -M main
+: 1631002252:0;git add .
+: 1631002266:0;git commit -m "Plot added"
+: 1631002271:0;git push
+: 1631002442:0;pwd
+: 1631003651:0;git add .
+: 1631003670:0;git commit -m "Cross validation Class"
+: 1631003674:0;push 
+: 1631003678:0;git push
+: 1631130927:0;open ./
+: 1631130934:0;cd ..
+: 1631130937:0;open ./
+: 1631822946:0;IPython
+: 1631823031:0;pip3 install ipython
+: 1631823110:0;ipython
+: 1631823170:0;PIP
+: 1631823172:0;pip
+: 1631823217:0;sudo easy_install GDAL
+: 1631826186:0;pwd
+: 1631991106:0;echo "# Java_GUI_For_PostGIS-QUERY" >> README.md
+: 1631991122:0;git init
+: 1631991135:0;gi add .
+: 1631991141:0;git add .
+: 1631991157:0;git commit "Commit the Project"
+: 1631991197:0;git commit -m "first commit of project"
+: 1631991208:0;git branch -M main
+: 1631991217:0;git remote add origin https://github.com/Daham-Mustaf/Java_GUI_For_PostGIS-QUERY.git
+: 1631991226:0;git push -u origin main
+: 1631992185:0;git add .
+: 1631992196:0;git commit -m "The comments updated"
+: 1631992201:0;git push 
+: 1631992543:0;git add .
+: 1631992548:0;git commit -m "The comments updated"
+: 1631992551:0;git push 
+: 1631992902:0;git add .
+: 1631992917:0;git commit -m "new Information"
+: 1631992922:0;git push
+: 1631992937:0;git pusll 
+: 1631992945:0;git pull
+: 1631992973:0;pwd
+: 1632144909:0;wd
+: 1632144911:0;pwd
+: 1632145027:0;open ./
+: 1632677436:0;oepn ./
+: 1632677440:0;open ./
+: 1632741980:0;pwd
+: 1633341717:0;mvn jetty run
+: 1633341731:0;mvn 
+: 1633341738:0;pwd
+: 1633341740:0;ls
+: 1633341744:0;mvn 
+: 1633341752:0;mvn jetty run
+: 1633368285:0;cd ..
+: 1633368292:0;open ./
+: 1633715848:0;./mvnw
+: 1633722355:0;./mvnw 
+: 1633724038:0;mvn jetty:run
+: 1633724047:0;mvn
+: 1633725084:0;./mvnw 
+: 1634120742:0;ls
+: 1634120762:0;yarn start
+: 1634120791:0;npn
+: 1634120793:0;npm
+: 1634120799:0;npm start
+: 1634121066:0;ls
+: 1634121077:0;npm start
+: 1634149332:0;npm
+: 1634149369:0;npm i bootstrap@4.1.1
+: 1634207671:0;mpn start
+: 1634207682:0;npm srart
+: 1634207696:0;npm star
+: 1634217472:0;npm install bootstrap --save
+: 1634217767:0;npn install axios
+: 1634217776:0;npm install axios
+: 1634219777:0;npm start
+: 1634220751:0;ls
+: 1634220754:0;npm install @material-ui/icons
+: 1634220817:0;npm start
+: 1636298141:0;npm stop 
+: 1636298212:0;killall -9 node
+: 1636576164:0;npm start
+: 1636576324:0;yarn add react-icons
+: 1636576336:0;npm install react-icons --save
+: 1636578136:0;npm install -g npm
+: 1636578178:0;npm install react-icons --save
+: 1636578485:0;npm start
+: 1636617914:0;npm install --save react-toastify
+: 1636618959:0;mpn start
+: 1636618967:0;npm start
+: 1637503929:0;npm install react-redux
+: 1637503995:0;npm install -g npm 
+: 1637504517:0;npm start
+: 1637516152:0;nmp start
+: 1637516157:0;npm start
+: 1637826322:0;touch docker-compose.yml
+: 1637944112:0;django-admin
+: 1637944166:0;django-admin startproject
+: 1637944186:0;django-admin startproject storefront
+: 1637944268:0;django-admin startproject storefront .
+: 1637944435:0;django-admin
+: 1637944462:0;django-admin runserver
+: 1637944534:0;python manage.py
+: 1637944554:0;python manage.py runserver
+: 1637945247:0;pipenv --venv
+: 1637945340:0;source /Users/m-store/.local/share/virtualenvs/storefront-1VabjdhY/bin/activate
+: 1637945402:0;python manage.py runserver
+: 1637945689:0;pipenv shel
+: 1637945700:0;pipenv
+: 1637945820:0;pipenv shell
+: 1637945894:0;django-admin startproject .
+: 1637945945:0;django-admin startproject storefron .
+: 1637946285:0;pipenv --venv
+: 1637946827:0;source /Users/m-store/.local/share/virtualenvs/django--vPZVeK7/bin/activate
+: 1637946997:0;python manage.py startsever
+: 1637947024:0;python manage.py runserver
+: 1637947198:0;source /Users/m-store/.local/share/virtualenvs/django--vPZVeK7/bin/activate
+: 1637947212:0;python manage.py runserver
+: 1637947384:0;source /Users/m-store/.local/share/virtualenvs/django--vPZVeK7/bin/activate
+: 1637947425:0;python manage.py startapp plyground
+: 1637947766:0;python manage.py runserver
+: 1637947950:0;source /Users/m-store/.local/share/virtualenvs/django--vPZVeK7/bin/activate
+: 1637947965:0;python manage.py runserver
+: 1637948396:0;source /Users/m-store/.local/share/virtualenvs/django--vPZVeK7/bin/activate
+: 1637948430:0;python manage.py runserver
+: 1637958469:0;mkdir server
+: 1637958478:0;cd server
+: 1637958495:0;npm init
+: 1637958713:0;npm i express pg cors
+: 1637958794:0;touch index.js
+: 1637958972:0;node index
+: 1637959018:0;nodemon index
+: 1637959093:0;npm install nodemon --save-dev
+: 1637959114:0;nodemon index
+: 1637963250:0;ls
+: 1637963269:0;touch db.js
+: 1637963363:0;npm init
+: 1637963424:0;npm install pg
+: 1637963572:0;node db.js
+: 1637964159:0;node dbc.js
+: 1638099530:0;open .
+: 1638099543:0;touch file.txt
+: 1638099718:0;node readfile.js 
+: 1638100258:0;touch write.txt
+: 1638100259:0;ls
+: 1638100362:0;node readfile.js 
+: 1638101506:0;ls
+: 1638101617:0;node readfile.js 
+: 1638101627:0;ls
+: 1638102947:0;node server.js
+: 1638104146:0;touch index.html
+: 1638104294:0;node server.js
+: 1638122912:0;nodemon -h
+: 1638123059:0;npm init
+: 1638123703:0;npm install express
+: 1638124191:0;nodemon app.js
+: 1638124223:0;nodemon app
+: 1638127424:0;npm install ejs
+: 1638134683:0;source /Users/m-store/.local/share/virtualenvs/Tuterial-1HHELgE6/bin/activate
+: 1638134699:0;python manage.py runserver
+: 1638135288:0;source /Users/m-store/.local/share/virtualenvs/Tuterial-1HHELgE6/bin/activate
+: 1638135361:0;python manage.py startapp blog
+: 1638137256:0;python manage.py runserver
+: 1638456497:0;pwd
+: 1640776106:0;tree
+: 1640776120:0;tree -d -L 1
+: 1640776128:0;tree
+: 1641832118:0;open ./
+: 1641832201:0;ls
+: 1641832208:0;cd src
+: 1641832211:0;ls
+: 1641832214:0;cd main
+: 1641832216:0;ls 
+: 1641832223:0;cd apps
+: 1641832231:0;cd logs
+: 1641832233:0;ls
+: 1641832239:0;touch appname.log
+: 1641832241:0;ls
+: 1641832246:0;cd ..
+: 1641832251:0;ls
+: 1641832255:0;cd ~
+: 1641832258:0;ls
+: 1641832682:0;tree
+: 1641832691:0;tree -f
+: 1641837448:0;tree
+: 1641839105:0;open ./
+: 1642071699:0;cd ..
+: 1642071703:0;ls 
+: 1642071706:0;open ./
+: 1642072117:0;ls
+: 1642072130:0;echo "# Spring-boot-JDBC" >> README.md
+: 1642072131:0;ls
+: 1642072138:0;git init
+: 1642072142:0;ls -a
+: 1642072159:0;git commit -m "JDBC"
+: 1642072174:0;git add.
+: 1642072178:0;git add 
+: 1642072181:0;git add .
+: 1642072186:0;git commit -m "JDBC"
+: 1642072197:0;git branch -M main
+: 1642072205:0;git remote add origin git@github.com:Daham-Mustaf/Spring-boot-JDBC.git
+: 1642072212:0;git push -u origin main
+: 1642345731:0;open ./
+: 1642345738:0;ls
+: 1642345741:0;pwd
+: 1642345746:0;cd ..
+: 1642345747:0;ls
+: 1642345759:0;tree
+: 1642345769:0;open ./
+: 1642539172:0;cho "# Send_Mail_Spring_Boot" >> README.md
+: 1642539175:0;echo "# Send_Mail_Spring_Boot" >> README.md
+: 1642539184:0;git init
+: 1642539196:0;git add .
+: 1642539219:0;git commit -m "first App commit"
+: 1642539228:0;git branch -M main
+: 1642539236:0;git remote add origin git@github.com:Daham-Mustaf/Send_Mail_Spring_Boot.git
+: 1642539244:0;git push -u origin main
+: 1642542113:0;Y
+: 1642561059:0;open .
+: 1642561190:0;pwd
+: 1642586023:0;echo "# Spring-MVC-Spring-Email" >> README.md
+: 1642586029:0;git init
+: 1642586033:0;git add .
+: 1642586044:0;git commit -m "commit app"
+: 1642586054:0;git branch -M main
+: 1642586062:0;git remote add origin git@github.com:Daham-Mustaf/Spring-MVC-Spring-Email.git
+: 1642586069:0;git push -u origin main
+: 1642588762:0;open ./
+: 1643209612:0;pwd
+: 1643210434:0;git init
+: 1643210440:0;git add .
+: 1643210457:0;git commit -m "Model Class Added"
+: 1643210463:0;git branch -M main
+: 1643210472:0;git remote add origin git@github.com:Daham-Mustaf/SpringDataJPA-Auditing-JPA-Hiber
+: 1643210497:0;git remote add origin git@github.com:Daham-Mustaf/SpringDataJPA-Auditing-JPA-Hibernate-.git
+: 1643210501:0;git branch -M main
+: 1643210518:0;git push -u origin main
+: 1643210562:0;git remote add origin git@github.com:Daham-Mustaf/SpringDataJPA-Auditing-JPA-Hibernate-.git
+: 1643210577:0;git push -u 
+: 1643210583:0;git push
+: 1643210587:0;git push .
+: 1643210603:0;git remote add origin git@github.com:Daham-Mustaf/SpringDataJPA-Auditing-JPA-Hibernate-.git
+: 1643210612:0;git branch -M main
+: 1643210619:0;git push -u origin main
+: 1643210679:0;git remote set-url git@github.com:Daham-Mustaf/SpringDataJPA-Auditing-JPA-Hibernate-.git
+: 1643210730:0;ssh-add -D
+: 1643210739:0;ssh-add ~/.ssh/id_rsa
+: 1643210753:0;git push .
+: 1643210768:0;git branch -M main
+: 1643210775:0;git remote add origin git@github.com:Daham-Mustaf/SpringDataJPA-Auditing-JPA-Hibernate-.git
+: 1643210813:0;git remote add myorigin git@github.com:myname/oldrep.git  
+: 1643210813:0;git remote add testtest git@github.com:myname/oldrep.git
+: 1643210830:0;git remote rm origin
+: 1643210843:0;git branch -M main
+: 1643210850:0;git remote add origin git@github.com:Daham-Mustaf/SpringDataJPA-Auditing-JPA-Hibernate-.git
+: 1643210859:0;git push -u origin main
+: 1643211423:0;git add .
+: 1643211445:0;git commit -m "DAO and DTO"
+: 1643211451:0;git push .
+: 1643211466:0;git push 
+: 1643213067:0;git add .
+: 1643213082:0;git commit -m "Repo added"
+: 1643213086:0;git push 
+: 1643222232:0;git add .
+: 1643222244:0;git commit -m "Controller Added"
+: 1643222248:0;git push 
+: 1643223440:0;echo "# Spring-Boot-Data-Envers-Auditing-" >> README.md
+: 1643223444:0;git init
+: 1643223447:0;git add .
+: 1643223459:0;git commit -m"Model class Added"
+: 1643223467:0;git branch -M main
+: 1643223474:0;git remote add origin git@github.com:Daham-Mustaf/Spring-Boot-Data-Envers-Auditing-.git
+: 1643223480:0;git push -u origin main
+: 1643224086:0;git add .
+: 1643224094:0;git commit -m "RevisionRepository added"
+: 1643224097:0;git push 
+: 1643225281:0;git add .
+: 1643225295:0;git commit -m "updated "
+: 1643225298:0;git push
+: 1643225486:0;git add .
+: 1643225503:0;git commit -m "getInfo(@PathVariable int id) added"
+: 1643225506:0;git push
+: 1643307244:0;cd ..
+: 1643307247:0;open .-
+: 1643307256:0;open .
+: 1643310633:0;echo "# Spring-Boot-Web-FluxDemo" >> README.md
+: 1643310639:0;git init
+: 1643310666:0;git commit -m "Mono Flex"
+: 1643310676:0;git branch -M main
+: 1643310683:0;git remote add origin git@github.com:Daham-Mustaf/Spring-Boot-Web-FluxDemo.git
+: 1643310690:0;git push -u origin main
+: 1643310701:0;git branch -M main
+: 1643310709:0;git remote add origin git@github.com:Daham-Mustaf/Spring-Boot-Web-FluxDemo.git
+: 1643310716:0;git push -u origin main
+: 1643310722:0;git push
+: 1643371467:0;echo "# Java-8-Functional-programming" >> README.md
+: 1643371474:0;git init
+: 1643371483:0;git add .
+: 1643371497:0;git commit -m "Predicate interface"
+: 1643371507:0;git branch -M main
+: 1643371516:0;git remote add origin git@github.com:Daham-Mustaf/Java-8-Functional-programming.git
+: 1643371524:0;git push -u origin main
+: 1643371653:0;git add .
+: 1643371663:0;git push -m "filter method"
+: 1643371666:0;git push
+: 1643372457:0;git add .
+: 1643372468:0;git commit -m "Supplier"
+: 1643372472:0;git push 
+: 1643372800:0;git add .
+: 1643372809:0;git commit -m "ForEachDemo" 
+: 1643372811:0;git push
+: 1643372887:0;git add .
+: 1643372898:0;git commit -m "forEach"
+: 1643372901:0;git push
+: 1643373140:0;git add .
+: 1643373153:0;git commit -m "mapp printing with foreach"
+: 1643373157:0;got push 
+: 1643373162:0;git push
+: 1643373279:0;git add .
+: 1643373286:0;git commit -m ""
+: 1643373296:0;git commit -m "Map"
+: 1643373299:0;git push 
+: 1643373838:0;git add . 
+: 1643373856:0;git commit -m "filter()"
+: 1643373860:0;git push 
+: 1643375565:0;git add .
+: 1643375575:0;gir commit -m "SortListDemo"
+: 1643375588:0;git commit -m "SortListDemo"
+: 1643375593:0;git push
+: 1643386867:0;git add .
+: 1643386875:0;git commit -m "MapSorting"
+: 1643386878:0;git push 
+: 1643387353:0;git add .
+: 1643387363:0;git commit -m "Sorting map"
+: 1643387367:0;git push 
+: 1643388292:0;git add .
+: 1643388308:0;git commit "functional sorting "
+: 1643388321:0;git commit -m "functional sorting "
+: 1643388326:0;git push 
+: 1643388516:0;git add .
+: 1643388528:0;git commit -m "stream Apis"
+: 1643388531:0;git push 
+: 1643388657:0;git add .
+: 1643388664:0;git commit -m "Map.Entry.comparingByValue()"
+: 1643388668:0;git push
+: 1643390092:0;git add .
+: 1643390107:0;git commit -m "MapVsFlatMap"
+: 1643390110:0;git push
+: 1643391027:0;git add .
+: 1643391048:0;git commit -m "flatting data"
+: 1643391051:0;git push
+: 1643393250:0;git add .
+: 1643393260:0;git commit -m "update .."
+: 1643393263:0;git push
+: 1643393564:0;git add .
+: 1643393571:0;git commit -m "MapReduceDemo"
+: 1643393573:0;git push
+: 1643393709:0;git add ,
+: 1643393712:0;git add .
+: 1643393720:0;git commit -m "Reduce "
+: 1643393723:0;git push 
+: 1643394300:0;git add .
+: 1643394314:0;git commit -m "reduce "
+: 1643394318:0;git push
+: 1643488730:0;cd ..
+: 1643488734:0;open .
+: 1643567140:0;ls -a
+: 1643567162:0;git echo "# Spring-boot-uploadingFiles" >> README.md
+: 1643567163:0;echo "# Spring-boot-uploadingFiles" >> README.md
+: 1643567167:0;git add .
+: 1643567172:0;git init
+: 1643567175:0;git add .
+: 1643567185:0;git commit -m "First commit"
+: 1643567192:0;git branch -M main
+: 1643567201:0;git remote add origin git@github.com:Daham-Mustaf/Spring-boot-uploadingFiles.git
+: 1643567207:0;git push -u origin main
+: 1643637796:0;Y
+: 1643637798:0;git push -u origin main
+: 1643654295:0;git status
+: 1643654304:0;echo "# Spring-Reactive-Progrmming" >> README.md
+: 1643654308:0;git int
+: 1643654313:0;git init
+: 1643654320:0;git add .
+: 1643654329:0;git commit -m "first Commit"
+: 1643654336:0;git branch -M main
+: 1643654343:0;git remote add origin git@github.com:Daham-Mustaf/Spring-Reactive-Progrmming.git
+: 1643654349:0;git push -u origin main
+: 1643654360:0;git remote add origin git@github.com:Daham-Mustaf/Spring-Reactive-Progrmming.git
+: 1643654366:0;git push
+: 1643654371:0;git remote add origin git@github.com:Daham-Mustaf/Spring-Reactive-Progrmming.git
+: 1643654378:0;git push -u origin main
+: 1643654422:0;git push origin master --force
+: 1643654478:0;git add --all
+: 1643654489:0;git commit -m "First commit"
+: 1643654509:0;git branch -M main
+: 1643654583:0;git add .
+: 1644074981:0;pwd
+: 1644074992:0;echo "# Files-Enhancement-Java-IO" >> README.md
+: 1644074996:0;git init
+: 1644075000:0;git add .
+: 1644075023:0;git commit -m " Files-Enhancement-Java-IO"
+: 1644075032:0;git branch -M main
+: 1644075040:0;git remote add origin git@github.com:Daham-Mustaf/Files-Enhancement-Java-IO.git
+: 1644075051:0;git push -u origin main
+: 1644256918:0;cd ..
+: 1644256921:0;open .
+: 1644334258:0;cd ..
+: 1644334265:0;oepn ./
+: 1644334268:0;open .
+: 1644336110:0;echo "# ORM-Hibernate" >> README.md
+: 1644336117:0;git init
+: 1644336121:0;git add .
+: 1644336132:0;git commit -m "ORM DEMO"
+: 1644336141:0;git branch -M main
+: 1644336149:0;git remote add origin git@github.com:Daham-Mustaf/ORM-Hibernate.git
+: 1644336160:0;git push -u origin main
+: 1644355898:0;cd .
+: 1644355900:0;open 
+: 1644355903:0;open .
+: 1644355910:0;cd ..
+: 1644355912:0;open .
+: 1644355925:0;cd ..
+: 1644355927:0;open .
+: 1644356534:0;echo "# SpringBoot-Spring-Data-JPA---One-To-Many" >> README.md
+: 1644356542:0;git init
+: 1644356545:0;git add .
+: 1644356557:0;gir commit -m "#code"
+: 1644356567:0;git commit -m "#code"
+: 1644356612:0;git branch -M main
+: 1644356628:0;git remote add origin git@github.com:Daham-Mustaf/SpringBoot-Spring-Data-JPA---One-To-Many.git
+: 1644356639:0;git push -u origin main
+: 1644707197:0;pwd
+: 1644747150:0;ls
+: 1644778533:0;pwd
+: 1644781169:0;echo "# Hibernate-AnnotationConfiguration" >> README.md
+: 1644781178:0;git init
+: 1644781181:0;git add .
+: 1644781199:0;git commit -m "first commit"
+: 1644781208:0;git branch -M main
+: 1644781217:0;git remote add origin git@github.com:Daham-Mustaf/Hibernate-AnnotationConfiguration.git
+: 1644781226:0;git push -u origin main
+: 1644832176:0;git add .
+: 1644832185:0;git commit -m "Pool size"
+: 1644832190:0;git push 
+: 1644832547:0;git add .
+: 1644832570:0;git commit -m "Setting up XML by using eclips hibernate plugin "
+: 1644832573:0;git push 
+: 1644835998:0;git add .
+: 1644836006:0;git commit -m "Design a singleton SessionFactory"
+: 1644836009:0;git push 
+: 1644836577:0;git add .
+: 1644836587:0;git commit -m " singltone "
+: 1644836590:0;git push 
+: 1644836909:0;git add .
+: 1644836918:0;git commit -m "singleton SessionFactory"
+: 1644836921:0;git push 
+: 1644837113:0;git add .
+: 1644837120:0;git commit -m "sessionFactory"
+: 1644837124:0;git push 
+: 1644837302:0;git add .
+: 1644837322:0;git commit -m " sessionFactory"
+: 1644837325:0;git push 
+: 1644837432:0;git add .
+: 1644837474:0;git commit -m "Test class added"
+: 1644837477:0;git push
+: 1644854232:0;git add .
+: 1644854244:0;git commit -m "Adding Student class "
+: 1644854249:0;git push 
+: 1644854417:0;git add .
+: 1644854425:0;git commit -m "Adding Id"
+: 1644854428:0;git push 
+: 1644862721:0;git add .
+: 1644862733:0;git commit -m "dirty checking"
+: 1644862737:0;git push
+: 1644862885:0;git add .
+: 1644862892:0;git commit -m "dirty checking clos"
+: 1644862895:0;git push
+: 1644862998:0;git add .
+: 1644863000:0;git commit -m "dirty checking clos"
+: 1644863003:0;git add .
+: 1644863006:0;git push
+: 1644869772:0;git add .
+: 1644869782:0;git commit -m "Layers "
+: 1644869785:0;git push
+: 1644870118:0;echo "# Hibernate-CRUDE" >> README.md
+: 1644870123:0;git init
+: 1644870131:0;git add .
+: 1644870149:0;gic commit -m "first commit"
+: 1644870161:0;git commit -m "first commit"
+: 1644870168:0;git branch -M main
+: 1644870175:0;git remote add origin git@github.com:Daham-Mustaf/Hibernate-CRUDE.git
+: 1644870182:0;git push -u origin main
+: 1644870588:0;git add .
+: 1644870599:0;git commit -m "Model added"
+: 1644870601:0;git psuh 
+: 1644870609:0;git commit -m "Model added"
+: 1644870636:0;git add .
+: 1644870649:0;git commit -m "updated"
+: 1644870655:0;git push 
+: 1644870887:0;git add .
+: 1644870903:0;git commit -m "fixing error"
+: 1644870906:0;git push
+: 1644928755:0;git add .
+: 1644928765:0;git commit "ID sequence "
+: 1644928778:0;git commit -m"ID sequence "
+: 1644928854:0;git add .
+: 1644928856:0;git commit -m"ID sequence "
+: 1644928861:0;git push
+: 1644944488:0;ls -a
+: 1644944597:0;rm -fr .git
+: 1644944600:0;ls -a
+: 1644944673:0;echo "# -Hibernate-Value-Object" >> README.md
+: 1644944679:0;git init
+: 1644944690:0;git add .
+: 1644944698:0;git commit -m "first commit"
+: 1644944707:0;git branch -M main
+: 1644944716:0;git remote add origin git@github.com:Daham-Mustaf/-Hibernate-Value-Object.git
+: 1644944725:0;git push -u origin main
+: 1645524564:0;open .
+: 1645524575:0;cd ..
+: 1645524577:0;open .
+: 1645543287:0;ls 
+: 1645543289:0;pwd 
+: 1645543295:0;npx create-react-app .
+: 1645547985:0;node -v
+: 1645547991:0;npx create-react-app .
+: 1645548690:0;ls 
+: 1645548692:0;ls
+: 1645548696:0;npm start
+: 1645552750:0;npm install -D tailwindcss postcss autoprefixer
+: 1645552773:0;npx tailwindcss init
+: 1645552844:0;npm install -D tailwindcss postcss autoprefixer\
+npx tailwindcss init
+: 1645552876:0;ls
+: 1645552883:0;ls -r
+: 1645552892:0;tree
+: 1645553473:0;touch postcss.config.js
+: 1645553475:0;ls 
+: 1645554312:0;npm install -D tailwindcss postcss autoprefixer
+: 1645554578:0;npx create-react-app .
+: 1645554623:0;npm start
+: 1645554797:0;npm install -D tailwindcss postcss autoprefixer\
+npx tailwindcss init
+: 1645554817:0;npx tailwindcss init
+: 1645554997:0;npn start
+: 1645555001:0;npm start
+: 1645557796:0;npm install postcss-import
+: 1645558357:0;open ./
+: 1645562714:0;npm install axios
+: 1645707791:0;npm start
+: 1645789311:0;npm install react-router-dom@6
+: 1645789506:0;npm start
+: 1646157618:0;pm 
+: 1646157628:0;npm install --save--dev gulp
+: 1646158006:0;tree
+: 1646404165:0;psql
+: 1648222744:0;cho "# Creating-RDF-models-with-Jena" >> README.md
+: 1648222746:0;git init
+: 1648222757:0;git add .
+: 1648222764:0;git commit -m "first commit"
+: 1648222771:0;git branch -M main
+: 1648222780:0;git remote add origin git@github.com:Daham-Mustaf/Creating-RDF-models-with-Jena.git
+: 1648222790:0;git push -u origin main
+: 1648223489:0;open ./
+: 1648223617:0;git add .
+: 1648223636:0;git commit -m "add method writeToFile()"
+: 1648223642:0;git push 
+: 1648223887:0;git add .
+: 1648223893:0;git commit -m" new"
+: 1648223897:0;git push
+: 1649003963:0;tree
+: 1649003982:0;npm start
+: 1649066079:0;npm install @material-ui/core
+: 1649066264:0;MATERIAL
+: 1649066274:0;npm i @mui/icons-material
+: 1649066602:0;npm start
+: 1649067252:0;pm i @material-ui/icons
+: 1649067255:0;npm i @material-ui/icons
+: 1649067288:0;npm audit
+: 1649067300:0;npm audit fix
+: 1649874956:0;ls
+: 1650270215:0;wd
+: 1650270217:0;pwd
+: 1650352825:0;npm start
+: 1650465799:0;npm 
+: 1650465805:0;npm stop
+: 1650565983:0;npm start
+: 1650792675:0;npm run dev
+: 1650792870:0;npm install -D tailwindcss postcss autoprefixer
+: 1650792884:0;npx tailwindcss init -p
+: 1650793056:0;npm install react-icons --save
+: 1650793226:0;npm install --save next-auth\
+
+: 1650793270:0;npm install axios
+: 1650793324:0;npm install react-redux
+: 1650793479:0;npm install @reduxjs/toolkit
+: 1650965459:0;node -v
+: 1650965492:0;node index.ts
+: 1650984473:0;npx create-react-app react-typsript-demo --template typescript
+: 1650984564:0;cd react-typsript-demo
+: 1650984565:0;ls
+: 1650984570:0;npm start
+: 1650984947:0;npm install -g ts-node
+: 1650984984:0;ts-node --v
+: 1650985095:0;ts-node index.ts
+: 1650992890:0;typscript
+: 1650992900:0;npm install typscript
+: 1650992923:0;npm install -g typscript
+: 1650992999:0;npm install -g typescript
+: 1650993013:0;typscript
+: 1650993017:0;npm install -g typescript
+: 1650993052:0;tsc --v
+: 1650993058:0;tsc
+: 1650993089:0;tsc index.ts
+: 1650993142:0;opne .
+: 1650993144:0;open .
+: 1650993227:0;tsc index.ts --outDir ./output
+: 1650993305:0;node output/index.js
+: 1651572768:0;node index.js
+: 1651572780:0;node index.ts
+: 1651572790:0;ls
+: 1651572795:0;ls 
+: 1651572798:0;cd output
+: 1651572800:0;ls 
+: 1651572805:0;node index.js
+: 1651576729:0;node "/Users/m-store/Desktop/TypScript/TS/output/index.js"
+: 1651577333:0;node "/Users/m-store/Desktop/TypScript/TS/output/tempCodeRunnerFile.js"
+: 1651577383:0;node "/Users/m-store/Desktop/TypScript/TS/output/index.js"
+: 1651577414:0;node index.ts
+: 1651577420:0;node index.js
+: 1651577425:0;node "/Users/m-store/Desktop/TypScript/TS/output/index.js"
+: 1651745261:0;node "/Users/m-store/Desktop/TypScript/TS/output/index.js"node "/Users/m-store/Desktop/TypScript/TS/output/index.js"
+: 1651745306:0;node "/Users/m-store/Desktop/TypScript/TS/output/index.js"
+: 1651771748:0;node "/Users/m-store/Desktop/TypScript/TS/output/tempCodeRunnerFile.js"
+: 1651771823:0;node "/Users/m-store/Desktop/TypScript/TS/output/index.js"
+: 1651773139:0;npm start
+: 1651774527:0;npm install axios
+: 1651775697:0;npm start
+: 1652812530:0;Y
+: 1652812557:0;LS
+: 1652812578:0;CD /Users/m-store/Desktop/JavaSript/app.js
+: 1652812585:0;/Users/m-store/Desktop/JavaSript
+: 1652812586:0;LS
+: 1652812591:0;NODE app.js
+: 1653159534:0;npm i mapillary-js@4.0.0-beta.0
+: 1653159574:0;npm audit fix --force
+: 1653162273:0;npm install leaflet
+: 1653162292:0;npm audit fix
+: 1653162300:0;npm audit fix --force
+: 1653162430:0;pmpm i leaflet
+: 1653162456:0;pnpm i leaflet
+: 1653162472:0;npm install leaflet\
+
+: 1653162520:0;npm fund
+: 1653162544:0;npm config set fund false --global
+: 1653162550:0;npm install leaflet\
+
+: 1653163129:0;npm audit fix
+: 1653163138:0;npm audit fix --force
+: 1653165022:0;npm 
+: 1653165028:0;npm install leaflet
+: 1653165039:0;npm audit fix
+: 1653165179:0;npm install leaflet\
+
+: 1653165188:0;npm audit fix --force
+: 1653166126:0;mkdir React Leaflet 
+: 1653166132:0;open ./
+: 1653166196:0;npx create-react-app React_leaflet
+: 1653166237:0;npx create-react-app react_leaflet
+: 1653166641:0;npm install react-leaflet leaflet --save
+: 1653166864:0;npm start
+: 1653167475:0;code index.html
+: 1653167616:0;pwd
+: 1653167628:0;cd Desktop/MapillaryJS
+: 1653167632:0;ls
+: 1653167640:0;code index.html
+: 1653168982:0;pwd
+: 1653169005:0;npm install --save mapillary-js
+: 1653471602:0;npm start
+: 1653471742:0;npm install --save react-mapillary
+: 1653472493:0;ls
+: 1653472520:0;cd Desktop/MapillaryJS
+: 1653472521:0;ls
+: 1653472525:0;yarn add mapillary-js
+: 1653503595:0;ls
+: 1653503670:0;node test.js
+: 1653503769:0;which node
+: 1653504040:0;node test.js
+: 1653561960:0;open ./
+: 1653564636:0;module.path
+: 1653564662:0;module.path()
+: 1653564665:0;node 
+: 1653587811:0;go version
+: 1653774351:0;ls
+: 1653774366:0;cd Desktop/MapillaryJS
+: 1653774367:0;LS
+: 1653774379:0;node index.html
+: 1653936523:0;pwd
+: 1653936544:0;cd Desktop/JavaSript
+: 1653936545:0;LS
+: 1654195019:0;cd Desktop/Redux
+: 1654195021:0;ls
+: 1654195029:0;touch index.js
+: 1654195035:0;code index.js .
+: 1654195040:0;code index.js 
+: 1654195048:0;open ./
+: 1654195061:0;ls
+: 1654196862:0;npm start
+: 1654245468:0;ls
+: 1654245482:0;npx create-react-app to-do-app
+: 1654245551:0;cd to-do-app
+: 1654245553:0;ls
+: 1654245669:0;npm start
+: 1654245766:0;ls
+: 1654245773:0;npm start
+: 1654719347:0;Ùƒ¤Ø³
+: 1654719351:0;ls
+: 1654719379:0;cd Downloads/HausAna
+: 1654719381:0;ls
+: 1654719397:0;git clone git://github.com/smarnach/pyexiftool.git
+: 1654719480:0;ls -a
+: 1654719490:0;git clone git://github.com/smarnach/pyexiftool.git
+: 1654720045:0;open ./
+: 1654768147:0;git clone git://github.com/smarnach/pyexiftool.git
+: 1654769550:0;exiftool.exe Hausannaberg.JPG
+: 1654769561:0;exiftool Hausannaberg.JPG
+: 1654770227:0;ls
+: 1654770238:0;touch efx.py
+: 1654770349:0;/usr/bin/env python "/Users/m-store/Downloads/HausAna/efx.py"
+: 1654770376:0;pip install Pillow
+: 1654770406:0;/usr/bin/env python "/Users/m-store/Downloads/HausAna/efx.py"
+: 1654770650:0;pip list
+: 1654770708:0;/usr/bin/env python "/Users/m-store/Downloads/HausAna/efx.py"
+: 1654770999:0;pip install image
+: 1654771015:0;/usr/bin/env python "/Users/m-store/Downloads/HausAna/efx.py"
+: 1654772221:0;python3 -m pip install --upgrade git+https://github.com/mapillary/mapillary_tools
+: 1654772435:0;exiftool Hausannaberg.JPG
+: 1654772556:0;toach geotag.json
+: 1654773444:0;exiftool 
+: 1654773457:0;exiftool -csv Hausannaberg.jpg
+: 1654773497:0;exiftool -csv Hausannaberg.jpg >data.csv
+: 1654774211:0;exiftool Hausannaberg.JPG
+: 1654775406:0;cd Uni
+: 1654775415:0;exiftool IMG_2707.JPG
+: 1654775778:0;(base) âƒ¾ƒ¼  Uni exiftool IMG_2707.JPGexiftool -filename -gpslatitude -gpslongitude -T DIR > out.txt
+: 1654775813:0;exiftool -IMG_2707.JPG -gpslatitude -gpslongitude -T DIR > out.txt
+: 1654775844:0;(base) âƒ¾ƒ¼  Uni exiftool IMG_2707.JPGexiftool -filename -gpslatitude -gpslongitude -T DIR > 
+: 1654775875:0;ls
+: 1654775904:0;exiftool -IMG_2707.JPG -gpslatitude -gpslongitude -T DIR > out.txt
+: 1654775927:0;pwd
+: 1654775941:0;exiftool -IMG_2707.JPG -gpslatitude -gpslongitude -T /Users/m-store/Downloads/HausAna/Uni > out.txt
+: 1654775972:0;ls
+: 1654776088:0;exiftool -uni_bonn.JPG -gpslatitude -gpslongitude -T /Users/m-store/Downloads/HausAna/Uni > out.txt
+: 1654776223:0;exiftool -uni_bonn.JPG -gpslatitude -gpslongitude -gpstimestamp -gpsdatestamp -n /Users/m-store/Downloads/HausAna/Uni/ > out.csv
+: 1654776724:0;exiftool -IMG_2707.JPG -gpslatitude -gpslongitude -T /Users/m-store/Downloads/HausAna/Uni > pwd
+: 1654776743:0;exiftool -filname -gpslatitude -gpslongitude -T -n -csv -ext JPG /Users/m-store/Downloads/HausAna/Uni/ > out.csv
+: 1654777042:0;exiftool -filename -gpslatitude -gpslongitude -T -n -csv -ext JPG /Users/m-store/Downloads/HausAna/Uni/ >  /Users/m-store/Downloads/HausAna/Uni/out.csv
+: 1654777074:0;exiftool -filename -gpslatitude -gpslongitude -T -n -csv -ext JPG /Users/m-store/Downloads/HausAna/Uni/ >  data.csv
+: 1654973650:0;pwd
+: 1654973659:0;cd Desktop/JavaSript
+: 1654973660:0;ls
+: 1654973665:0;node index.html
+: 1654973672:0;ls
+: 1654973710:0;node app.js
+: 1655217523:0;exiftool
+: 1655219237:0;exiftool -filename -gpslatitude -gpslongitude -T -n -csv -ext JPG /Users/m-store/Downloads/HausAna/Uni/ >  data.csvlL
+: 1655219245:0;pwd
+: 1655219278:0;exiftool -filename -gpslatitude -gpslongitude -T -n -csv -ext JPG /Users/m-store/Downloads/Anna >  data.csv
+: 1655219292:0;open ./
+: 1656496416:0;pwd
+: 1656496484:0;exiftool -filename -gpslatitude -gpslongitude -T -n -csv -ext JPG //Users/m-store/Desktop/Visualisation/AnnabergerStr >  /Users/m-store/Desktop/Visualisation/AnnabergerStr/out.csv
+: 1656496680:0;pwd
+: 1656496736:0;exiftool -filename -gpslatitude -gpslongitude -T -n -csv -ext JPG /Users/m-store/Desktop/Visualisation/Bonn-machen>  /Users/m-store/Desktop/Visualisation/Bonn-machen/out.csv
+: 1656497075:0;exiftool -s IMG_0338.JPG
+: 1656497135:0;exiftool -gps:all IMG_0338.JPG
+: 1656497351:0;exiftool -a -G -gps* IMG_0338.JPG
+: 1656497389:0;exiftool -a -G -gps* IMG_0366.JPG
+: 1656497407:0;exiftool -gps  IMG_0366.JPG
+: 1656497433:0;exiftool -s  IMG_0366.JPG
+: 1656497455:0;exiftool -s  IMG_0337.JPG
+: 1656497470:0;exiftool -s  IMG_0338.JPG
+: 1656497493:0;exiftool -s  IMG_0380.JPG
+: 1656497512:0;exiftool -s  IMG_0394.JPG
+: 1656497705:0;pwd 
+: 1656497710:0;cd cleaned_Data
+: 1656497711:0;pwd 
+: 1656497784:0;exiftool -filename -gpslatitude -gpslongitude -T -n -csv -ext JPG /Users/m-store/Desktop/Visualisation/Bonn-machen/cleaned_Data>  /Users/m-store/Desktop/Visualisation/Bonn-machen/cleaned_Data/cleaned_meta_out.csv
+: 1656502335:0;cd Cleaned_Data
+: 1656502338:0;pwd
+: 1656502390:0;exiftool -filename -gpslatitude -gpslongitude -T -n -csv -ext JPG /Users/m-store/Desktop/Visualisation/AnnabergerStr/Cleaned_Data>  /Users/m-store/Desktop/Visualisation/AnnabergerStr/Cleaned_Data/cleaned_meta_out.csv
+: 1656530143:0;go run "/Users/m-store/Desktop/GoLang/src/github.com/daham/App/Main.go"
+: 1656530186:0;go run
+: 1656530191:0;go run 
+: 1656530209:0;go run ./Main.go
+: 1656530230:0;go build
+: 1656530245:0;go buil ./Main.go
+: 1656530254:0;go build
+: 1656530383:0;go go run "/Users/m-store/Desktop/GoLang/src/github.com/daham/App/Main.go"
+: 1656530386:0;go run "/Users/m-store/Desktop/GoLang/src/github.com/daham/App/Main.go"
+: 1656530578:0;go run ./Main.go
+: 1656530657:0;go run "/Users/m-store/Desktop/GoLang/src/github.com/daham/App/Main.go"
+: 1657048903:0;pwd
+: 1657048911:0;node app.js
+: 1657048917:0;node "/Users/m-store/Desktop/NextJs/JavaScript/app.js"
+: 1657916897:0;open ./
+: 1657916954:0;touch Makefile
+: 1657917062:0;make target1
+: 1657917093:0;make target3
+: 1657917098:0;make target2
+: 1657917147:0;make celean
+: 1657917220:0;clean
+: 1657917224:0;make clean
+: 1657917233:0;make 
+: 1657917249:0;amke target2
+: 1657917258:0;make target2
+: 1657917263:0;make target3
+: 1657917266:0;make clean
+: 1657917288:0;make file1
+: 1657917401:0;node app.js
+: 1657917452:0;make run
+: 1657917471:0;make clean
+: 1657917477:0;ls
+: 1657917641:0;make C++
+: 1657917671:0;touch Main.C++
+: 1657917675:0;ls 
+: 1657917691:0;rm -f Main.C
+: 1657917695:0;ls
+: 1657918671:0;cd "/Users/m-store/Desktop/NextJs/JavaScript/" && g++ Main.cpp -o Main && "/Users/m-store/Desktop/NextJs/JavaScript/"Main
+: 1657980813:0;make script
+: 1657980895:0;open .
+: 1657980947:0;cd Shell\ Scripting
+: 1657980948:0;ls
+: 1657980961:0;echo "# Shell-Scripting" >> README.md
+: 1657980964:0;git init
+: 1657980968:0;git add .
+: 1657980987:0;git commit -m "Scripting Shell"
+: 1657980997:0;git branch -M main
+: 1657981006:0;git remote add origin git@github.com:Daham-Mustaf/Shell-Scripting.git
+: 1657981014:0;git push -u origin main
+: 1657981106:0;chmod +x myScript.sh
+: 1657981124:0;./myScript.sh
+: 1657981145:0;git add .
+: 1657981161:0;git commit -m "+x"
+: 1657981167:0;git push 
+: 1657981202:0;which bash
+: 1657981307:0;./myScript.sh
+: 1657981336:0;git add .
+: 1657981348:0;git commit -m " echo "
+: 1657981352:0;git push 
+: 1657981466:0;./myScript.sh
+: 1657981480:0;git add .
+: 1657981486:0;git commit -m " Var"
+: 1657981490:0;git push 
+: 1657981555:0;./myScript.sh
+: 1657981777:0;git add .
+: 1657981785:0;git commit -m "read"
+: 1657981789:0;git push
+: 1657982190:0;./myScript.sh
+: 1657982416:0;git add .
+: 1657982424:0;git commit -m "if statment"
+: 1657982430:0;git push
+: 1657982654:0;./myScript.sh
+: 1657982917:0;git add .
+: 1657982925:0;git commit -m "COMPARISON"
+: 1657982929:0;git push
+: 1657983077:0;make file
+: 1657983082:0;ls
+: 1657983104:0;make file
+: 1657983112:0;file
+: 1657983118:0;make file
+: 1657983132:0;make script
+: 1657983163:0;make file
+: 1657983175:0;make make
+: 1657983207:0;make file
+: 1657983412:0;./myScript.sh
+: 1657983448:0;git add .
+: 1657983456:0;git commit -m "files"
+: 1657983458:0;git push
+: 1657983567:0;make excutable
+: 1657983673:0;./myScript.sh
+: 1657983800:0;git add .
+: 1657983808:0;git commit "file commandes"
+: 1657983811:0;git push
+: 1657983870:0;git add .
+: 1657983877:0;git commit -m "All"
+: 1657983882:0;git push
+: 1657984045:0;git add .
+: 1657984055:0;git commit -m "Makefile"
+: 1657984060:0;git push
+: 1657984106:0;git add .
+: 1657984108:0;git commit -m "Makefile"
+: 1657984115:0;git push
+: 1657984212:0;git add .
+: 1657984213:0;git commit -m "Makefile"
+: 1657984216:0;git push
+: 1657984531:0;git add .
+: 1657984533:0;git commit -m "Makefile"
+: 1657984536:0;git push
+: 1657984557:0;git commit -m "filw"
+: 1657984564:0;git push
+: 1657984583:0;git push 
+: 1657984651:0;git push --force origin master
+: 1657984664:0;git push --force
+: 1657984977:0;./myScript.sh
+: 1657984988:0;git add .
+: 1657984997:0;git commit -m "hello"
+: 1657985003:0;git push
+: 1657985014:0;git --force push
+: 1657985020:0;git push --force
+: 1657985057:0;make clean
+: 1658346796:0;pwd 
+: 1658346802:0;ls
+: 1658346806:0;ls -a
+: 1658346885:0;make comand
+: 1658346900:0;open ./
+: 1658346925:0;make comand
+: 1658346942:0;open ./
+: 1658346955:0;pwd
+: 1658346957:0;ls
+: 1658346965:0;cd Shell\ Scripting
+: 1658346966:0;ls
+: 1658346976:0;make comand
+: 1658346993:0;make excutable
+: 1658347039:0;make comand
+: 1658347056:0;toche command.txt
+: 1658347067:0;touche command.txt
+: 1658347072:0;touch
+: 1658347076:0;touch command.txt
+: 1658347099:0;export X="Daham">> command.txt
+: 1658347145:0;echo "Hello ${X}"
+: 1658347151:0;echo "Hello ${X}">> command.txt
+: 1658347173:0;git add .
+: 1658347232:0;git -m "Command"
+: 1658347245:0;git commit -m "Commands"
+: 1658347255:0;git --force push
+: 1658347265:0;git push
+: 1658347376:0;pwd >>command.txt
+: 1658347392:0;cd . >>command.txt
+: 1658347406:0;ls 
+: 1658347451:0;echo "helow ${USER}"
+: 1658347460:0;echo "helow ${USER}">>command.txt
+: 1658347530:0;echo "helow ${HOME}"
+: 1658347540:0;echo "helow ${HOME}">>command.txt
+: 1658347590:0;echo "helow ${PWD}">>command.txt
+: 1658347626:0;echo "helow ${PATH}">>command.txt
+: 1658347672:0;git add .
+: 1658347688:0;git cimmit -m "variables"
+: 1658347691:0;git push
+: 1658347716:0;git cimmit -m "vari"
+: 1658347734:0;git commit -m "${var}"
+: 1658347744:0;git add .
+: 1658347746:0;git commit -m "${var}"
+: 1658347755:0;git commit -m "var"
+: 1658347761:0;git push
+: 1658347907:0;man echo >>command.txt
+: 1658347973:0;sublin
+: 1658347981:0;subl
+: 1658348051:0;ls -alh>>command.txt
+: 1658348298:0;cp command.txt com.tx
+: 1658348347:0;rm com.tx
+: 1658348355:0;git add .
+: 1658348362:0;git commit -m "ls"
+: 1658348366:0;git push
+: 1658348511:0;ls *.txt
+: 1658348522:0;ls *.txt>>command.txt
+: 1658348597:0;ls [a-x].*
+: 1658348739:0;cat command.txt
+: 1658348769:0;cat command.txt>>command.txt
+: 1658348805:0;git add .
+: 1658406936:0;touche coomand.txt
+: 1658406952:0;touch command.txt
+: 1658407105:0;cat ~/.zsh_history
+: 1658407110:0;cat ~/.zsh_history>>command.txt
